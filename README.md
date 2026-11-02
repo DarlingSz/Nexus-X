@@ -29,7 +29,7 @@
 
 O executável **não é assinado digitalmente**. Por isso, na primeira vez o Windows SmartScreen pode mostrar *"O Windows protegeu o computador"*: clique em **Mais informações → Executar assim mesmo**.
 
-Alguns antivírus desconfiam de qualquer otimizador que altera o registro e serviços. Se isso acontecer, confira o arquivo pelo checksum (abaixo) e decida se quer usá-lo. **O código-fonte não é público**, então só use se confiar em quem distribuiu.
+Alguns antivírus desconfiam de qualquer otimizador que altera o registro e serviços. Se isso acontecer, confira o arquivo pelo checksum (abaixo) e decida se quer usá-lo.
 
 ## O que ele faz
 
